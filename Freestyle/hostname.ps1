@@ -1,1 +1,1 @@
-get-hostname
+write-host "hola"
